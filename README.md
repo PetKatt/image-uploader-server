@@ -9,4 +9,4 @@ Server for image-uploader repository.
 5. set .env variables (CLOUD_NAME, API_KEY, API_SECRET) for Cloudinary Storage & Upload Platform. (For example by command in cli: 'set API_KEY=************', etc.)
 6. npm run server
 
-When SERVER is ACTIVE you can run image-uploader repo.
+When SERVER is ACTIVE you can run [image-uploader](https://github.com/PetKatt/image-uploader) repo.
